@@ -1,7 +1,0 @@
-@mixin banner-tablet-small {
-  .banner {
-    @extend %column-tablet-small;
-    @extend %vertical-align-top-tablet-small;
-    padding-top: 0;
-  }
-}
